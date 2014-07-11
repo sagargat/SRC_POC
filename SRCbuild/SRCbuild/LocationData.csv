@@ -1,0 +1,5 @@
+﻿Code,Description,Quarentined,MRPExcluded
+Main Store,Main Storage,0,0
+INSPECT TEST,Inspection and Testing,1,0
+Q-SUPPLIER REJECTS,Supplier Rejected Store,1,1
+W-SHP,Workshop,0,1
